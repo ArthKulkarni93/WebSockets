@@ -1,3 +1,5 @@
+//creates simple Express server in nodejs
+
 const express = require('express');
 const app = express();
 app.use(express.json());

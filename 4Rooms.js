@@ -1,3 +1,5 @@
+//Creates websocket server with express in node js. Rooms feature implemented
+
 const express = require('express');
 const cors = require('cors');
 const http = require('http');

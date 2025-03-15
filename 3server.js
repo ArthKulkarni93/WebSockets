@@ -1,3 +1,5 @@
+//Creates WebSocket Server with Express in node js
+
 // const express = require('express');
 // const http = require('http');
 // const websocket = require('ws');
